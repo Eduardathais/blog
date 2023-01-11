@@ -13,6 +13,7 @@ module Blog
 
     config.i18n.default_locale = 'pt-BR'
     config.time_zone = 'Brasilia'
+    config.encoding = 'UTF-8'
 
     # Configuration for the application, engines, and railties goes here.
     #
